@@ -2,8 +2,8 @@
 
 ![MasterHead](https://github.com/Sneakybooger/MyJavaProjects/blob/main/goofy/banner.gif?raw=true)
 
-<h1 align="center">Hi 👋, I'm Sneakybooger🤓</h1>
-<h3 align="center">An IT student from National University
+<h1 align="center">Hi 👋, I'm Sneakybooger <img src="https://media.tenor.com/oIdbufXalYUAAAAi/brickhill-skeleton.gif" width="50px"></h1>
+<h3 align="center">A 1st year IT student from National University
  </span>
   <a href="https://national-u.edu.ph/"><img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" alt="National University Logo" width="29" height="35" style="display: inline-block; vertical-align: middle;"></a>
 </h3>
@@ -11,7 +11,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 
-- 🌱 I’m currently learning **Mobile and Web developing 💻**
+- 🌱 Currently learning **Java <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="30px">**
+
+- 👨‍💻 Course **Bachelor of Science in Information Technology with specialization in Mobile and Web Applications💻📱**
 
 - 📫 Email me at: **kurtbcantuba24@gmail.com**
 
