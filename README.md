@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneakybooger&label=Profile%20views&color=0e75b6&style=flat" alt="sneakybooger" /> </p>
-
 ![MasterHead](https://github.com/Sneakybooger/ObjectOrientedProgramming/blob/main/banner.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Sneakybooger <img src="https://media.tenor.com/oIdbufXalYUAAAAi/brickhill-skeleton.gif" width="50px"></h1>
