@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Sneakybooger/ObjectOrientedProgramming/blob/main/banner.gif?raw=true)
 
-<h1 align="center">Hi 👋, I'm Sneakybooger <img src="https://media.tenor.com/oIdbufXalYUAAAAi/brickhill-skeleton.gif" width="50px"></h1>
+<h1 align="center">Hi 👋, I'm Sneakybooger <img src="https://media.tenor.com/bYv9V464OcUAAAAi/dance-skeleton.gif" width="50px"></h1>
 <h3 align="center">A 2nd year IT student from National University
  </span>
   <a href="https://national-u.edu.ph/"><img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" alt="National University Logo" width="29" height="35" style="display: inline-block; vertical-align: middle;"></a>
