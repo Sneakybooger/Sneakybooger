@@ -1,4 +1,5 @@
 ![MasterHead](https://github.com/Sneakybooger/ObjectOrientedProgramming/blob/main/banner.gif?raw=true)
+![Dance Skeleton](https://media.tenor.com/bYv9V464OcUAAAAi/dance-skeleton.gif)
 
 <h1 align="center">Hi 👋, I'm Sneakybooger <img src="https://media.tenor.com/OdcD8sHctRYAAAAi/roblox-dance-roblox.gif" width="50px"></h1>
 <h3 align="center">A 2nd year IT student from National University
