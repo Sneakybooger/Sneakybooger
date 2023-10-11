@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Sneakybooger/ObjectOrientedProgramming/blob/main/banner.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Sneakybooger <img src="https://media.tenor.com/oIdbufXalYUAAAAi/brickhill-skeleton.gif" width="50px"></h1>
-<h3 align="center">A 1st year IT student from National University
+<h3 align="center">A 2nd year IT student from National University
  </span>
   <a href="https://national-u.edu.ph/"><img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" alt="National University Logo" width="29" height="35" style="display: inline-block; vertical-align: middle;"></a>
 </h3>
@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 
-- 🌱 Currently learning **Java <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="30px">**
+- 🌱 Currently learning **Data Structures and Alogorithms <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="30px">**
 
 - 👨‍💻 Course **Bachelor of Science in Information Technology with specialization in Mobile and Web Applications💻📱**
 
