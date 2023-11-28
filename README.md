@@ -4,7 +4,7 @@
 
 <h3 align="center">A 2nd year IT student from National University
   </span>
-  <a><img src="nulogo.png" width="29" height="35" style="display: inline-block; vertical-align: middle;"></a>
+  <a><img src="nulogo.png" width="30" height="35"></a>
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
