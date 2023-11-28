@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Sneakybooger/ObjectOrientedProgramming/blob/main/banner.gif?raw=true)
 
-<h1 align="center">Hi 👋, I'm Kurt <img src="skeleton.gif" height ="30" width="40px"></h1>
+<h1 align="center">Hi 👋, I'm Kurt <img src="skeleton.gif" height ="50" width="40px"></h1>
 
 <h3 align="center">A 2nd year IT student from National University
   </span>
