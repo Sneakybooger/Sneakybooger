@@ -1,10 +1,10 @@
 ![MasterHead](https://github.com/Sneakybooger/ObjectOrientedProgramming/blob/main/banner.gif?raw=true)
 
-<h1 align="center">Hi 👋, I'm Kurt <img src="[skeleton.gif](https://github.com/Sneakybooger/ObjectOrientedProgramming/blob/main/skeleton.gif?raw=true)" height ="30" width="40px"></h1>
+<h1 align="center">Hi 👋, I'm Kurt <img src="skeleton.gif" height ="30" width="40px"></h1>
 
 <h3 align="center">A 2nd year IT student from National University
   </span>
-  <a href="https://national-u.edu.ph/"><img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" alt="National University Logo" width="29" height="35" style="display: inline-block; vertical-align: middle;"></a>
+  <a><img src="nulogo.png" width="29" height="35" style="display: inline-block; vertical-align: middle;"></a>
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
