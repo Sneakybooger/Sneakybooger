@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 
-- 🌱 Currently learning **Application Dev and Info Management <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="30px">**
+- 🌱 Currently learning **Flutter 😡<img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="30px">**
 
 - 👨‍💻 Course **Bachelor of Science in Information Technology with specialization in Mobile and Web Applications💻📱**
 
